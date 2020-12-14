@@ -6074,6 +6074,10 @@ a.close.disabled {
   vertical-align: text-top !important;
 }
 
+.bg-mode {
+  background-color: #38bcbc !important;
+
+}
 .bg-primary {
   background-color: #bd5d38 !important;
 }
