@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: #38bcbc;
   text-decoration: none;
   background-color: transparent;
 }
@@ -9778,6 +9778,10 @@ button.bg-dark:focus {
 
 .text-white {
   color: #fff !important;
+}
+
+.text-mode {
+  color: #38bcbc !important;
 }
 
 .text-primary {
